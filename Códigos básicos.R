@@ -59,3 +59,9 @@ cor(x,y) #correlación
 lm(y~x) #coeficientes de la recta de regresión
 plot(x,y) #gráficas de la nube de puntos y de la recta de regresión
 abline(lm(y~x))
+
+
+# Colores -----------------------------------------------------------------
+
+colors() #lista de los 657 colores activos
+demo(colors) #demostración
